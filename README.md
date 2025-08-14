@@ -1,6 +1,6 @@
 # 📚 HTML & CSS Guide
 
-![HTML & CSS Guide](./banner-html-css.png)
+
 
 ## 📖 Sobre
 Este repositório contém um resumo detalhado sobre HTML e CSS, abordando conceitos fundamentais, estrutura, boas práticas e exemplos práticos.
