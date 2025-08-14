@@ -68,10 +68,3 @@ h1 {
 
 ---
 
-## 📎 Links úteis
-- [Documentação HTML MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [Documentação CSS MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
----
-
-💡 *Feito para fins de estudo e consulta.*
