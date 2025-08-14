@@ -29,7 +29,6 @@ Ele determina **o que** será exibido no navegador: textos, imagens, vídeos, li
 </body>
 </html>
 
-
 📖 2. Principais Elementos HTML
 
 Títulos: <h1> até <h6>
@@ -48,7 +47,7 @@ Não ordenada: <ul><li>Item</li></ul>
 
 Formulários: <form>, <input>, <textarea>, <button>
 
-O que é CSS?
+🎨 3. O que é CSS?
 
 CSS (Cascading Style Sheets) é a linguagem de estilo que controla como o conteúdo HTML será exibido.
 Permite mudar cores, fontes, tamanhos, espaçamentos, alinhamentos e até criar animações.
@@ -59,19 +58,23 @@ Inline — dentro do elemento HTML
 
 <p style="color: blue;">Texto azul</p>
 
+
 Interno — dentro da tag <style>
 
 <style>
     p { color: blue; }
 </style>
 
+
 Externo — arquivo separado .css
 
-🔤 4. Sintaxe Básica do CSS
+<link rel="stylesheet" href="style.css">
 
+🔤 4. Sintaxe Básica do CSS
 seletor {
     propriedade: valor;
 }
+
 
 Exemplo:
 
@@ -80,7 +83,6 @@ h1 {
     font-size: 32px;
     text-align: center;
 }
-
 
 🧩 5. Seletores Comuns
 
@@ -123,9 +125,7 @@ Uso de media queries:
     body { background-color: lightgray; }
 }
 
-
 💻 7. Exemplo Completo HTML + CSS
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -162,10 +162,6 @@ Uso de media queries:
     <p>Visite meu <a href="#">GitHub</a> para ver mais projetos.</p>
 </body>
 </html>
-
-
-
-<link rel="stylesheet" href="style.css">
 
 📌 Conclusão
 
